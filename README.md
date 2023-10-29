@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img align=right height="370" width="260" src="assets/sentry.png" />
+<img align=right height="370" width="360" src="assets/infantry.png" />
+
 - 🔭 I’m currently studying in Xi'an University of Technology
 - 🌱 I’m currently learning Robotics
 - 📫 How to reach me: liuhang20020917@gmail.com
