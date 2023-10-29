@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align=right height="370" width="360" src="assets/infantry.png" />
+<img align=right height="270" width="260" src="assets/infantry.png" />
 
 - 🔭 I’m currently studying in Xi'an University of Technology
 - 🌱 I’m currently learning Robotics
