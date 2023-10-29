@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+<img align=right height="370" width="260" src="assets/sentry.png" />
 - 🔭 I’m currently studying in Xi'an University of Technology
 - 🌱 I’m currently learning Robotics
 - 📫 How to reach me: liuhang20020917@gmail.com
 - You might want to check my personal website at https://66lau.github.io
 
-<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=66Lau&theme=github_dark" alt="66Lau" width="35%" />
+
   
 ### Languages and Frameworks
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/#A8B9CC" /> <img height="32" width="32" src="https://cdn.simpleicons.org/c++/#00599C" />
@@ -20,8 +20,11 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/windows10/#0078D6" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/#E95420" />
 
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=66Lau&theme=github_dark" alt="66Lau" width="35%" />
+
 <!--
-**xjtulixuanyi/xjtulixuanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
