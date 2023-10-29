@@ -15,15 +15,13 @@
 <img height="16" width="16" src="https://cdn.simpleicons.org/cmake/#064F8C" />
 <img height="16" width="16" src="https://cdn.simpleicons.org/opencv/#5C3EE8" />
 <img height="16" width="16" src="https://cdn.simpleicons.org/ros/#22314E" />
-
-### Tools and Environments
-<img height="16" width="16" src="https://cdn.simpleicons.org/visualstudio/#5C2D91" /> <img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" />
-<img height="16" width="16" src="https://cdn.simpleicons.org/windows10/#0078D6" />
 <img height="16" width="16" src="https://cdn.simpleicons.org/ubuntu/#E95420" />
 
 
 
-<img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=66Lau&theme=github_dark" alt="66Lau" width="35%" />
+
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=66Lau&theme=github_dark" alt="66Lau" width="35%" />
 
 <!--
 
