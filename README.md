@@ -1,8 +1,8 @@
 ### Hi there 👋
 <img align=right height="270" width="260" src="assets/infantry.png" />
 
-- 🔭 I’m currently studying in Xi'an University of Technology
-- 🌱 I’m currently learning Robotics
+<!-- - 🔭 I’m currently studying in Xi'an University of Technology -->
+- 🌱 I’m interested in RL, especially in bipedal/quadruped locomotion
 - 📫 How to reach me: liuhang20020917@gmail.com
 <!-- - You might want to check my personal website at https://66lau.github.io -->
 
