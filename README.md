@@ -1,13 +1,16 @@
 ### Hi there 👋
+<!--
 <img align=right height="270" width="260" src="assets/infantry.png" />
+-->
 
 <!-- - 🔭 I’m currently studying in Xi'an University of Technology -->
-- 🌱 I’m interested in RL, especially in bipedal/quadruped locomotion
+- 🌱 I’m interested in legged robot and robot learning
 - 📫 How to reach me: liuhang20020917@gmail.com
 <!-- - You might want to check my personal website at https://66lau.github.io -->
 
 
-  
+<!--
+
 ### Languages and Frameworks
 <img height="16" width="16" src="https://cdn.simpleicons.org/c/#A8B9CC" /> <img height="16" width="16" src="https://cdn.simpleicons.org/c++/#00599C" />
 <img height="16" width="16" src="https://cdn.simpleicons.org/python/#3776AB" />
@@ -23,7 +26,6 @@
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=66Lau&theme=github_dark" alt="66Lau" width="35%" />
 
-<!--
 
 Here are some ideas to get you started:
 
