@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently studying in Xi'an University of Technology -->
 - 🌱 I’m interested in legged robot and robot learning
-- 📫 How to reach me: liuhang20020917@gmail.com
+- 📫 How to reach me: hangliu@umich.edu
 <!-- - You might want to check my personal website at https://66lau.github.io -->
 
 
