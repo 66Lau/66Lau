@@ -3,8 +3,7 @@
 <img align=right height="270" width="260" src="assets/infantry.png" />
 -->
 
-<!-- - 🔭 I’m currently studying in Xi'an University of Technology -->
-- 🌱 I’m interested in legged robot and robot learning
+- 🌱 I’m interested in General Robotics and Machine Learning Problems
 - 📫 How to reach me: hangliu@umich.edu
 <!-- - You might want to check my personal website at https://66lau.github.io -->
 
@@ -38,3 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
